@@ -16,10 +16,6 @@ html, body {
 .page-description {
  text-align: center;  
 }
-list {
-  list-style-position: inside;
-  list-style-type: circle;
-}
 
 h1 {
 	font-size: 32px; font-family: 'cambria', serif; color: rgb(121,149,117);
