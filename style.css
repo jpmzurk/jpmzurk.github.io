@@ -16,7 +16,7 @@ html, body {
 .page-description {
  text-align: center;  
 }
-#list {
+list {
   list-style-position: inside;
   list-style-type: circle;
 }
