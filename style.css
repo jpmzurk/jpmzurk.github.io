@@ -13,7 +13,7 @@ body {
   background-size: cover;
   margin: 0;
 }
-hr {
+.hr1 {
    width: 60%;margin-left: auto;margin-right: auto;
 }
 .page-title {
