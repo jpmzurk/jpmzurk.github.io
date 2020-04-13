@@ -3,11 +3,9 @@ body {
           serif;
 }
 body {
-background: -webkit-linear-gradient(#93B874, #C9DCB9); 
-    background: -o-linear-gradient(#93B874, #C9DCB9); 
-    background: -moz-linear-gradient(#93B874, #C9DCB9); 
-    background: linear-gradient(#93B874, #C9DCB9); 
-    background-color: #93B874; 
+  background-image: 
+	  url('jpmzurk.github.io/4-20-14HP5320-018.jpg'); opacity: 0.3;
+  background-position: center top; background-size: 90%; margin: 0; 
 }
 
 .hr1 {
