@@ -1,9 +1,8 @@
 body {
-	height: 100%; margin: 0; text-align: left; width: 100%; ine-height: 1.1;
+	height: 100%; margin: 0; text-align: left; width: 100%; ine-height: 1.1;font-family: 'Georgia', "Times New Roman",
+          serif;
 }
 body {
-  font-family: 'Georgia, "Times New Roman",
-          serif;
   background-image: 
 	  url('jpmzurk.github.io/4-20-14HP5320-018.jpg'); opacity: 0.3;
   background-position: center top; background-size: 90%; margin: 0;
