@@ -1,32 +1,22 @@
 
-html, body {
+
+body {
 	height: 100%; margin: 0; text-align: center; width: 100%; line-height: 1.1;font-family: 'Georgia', "Times New Roman", serif;
 }
 
-body{
-  margin: 0;
-  padding: 0:
-  box sizing: border box;
-}
-header{
-  text-align: justify;
-  text-justify: inter-word;
-}
 .hr1 {
    width: 60%;height:5px; fill: 100%;color:rgb(0,0,0);
 }
 
 .page-title {
-  font-family: 'cambria';text-align: justify; text-justify: inter-word;font-weight: 125;
+  font-family: 'cambria';text-align: center;font-weight: 125;
 }
 
 .paragraph-text {
-  font-family: 'cambria'; text-align: left; line-height: 1;
-  text-align: justify;
-  text-justify: inter-word;
+  font-family: 'cambria'; text-align: center; line-height: 1;
 }	  
 .page-description {
-  padding: 0px; text-align: left;  
+ text-align: center;  
 }
 
 h1 {
@@ -35,4 +25,7 @@ h1 {
 h2 {
 	font-size: 25px;
 }
-
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
