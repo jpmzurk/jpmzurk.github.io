@@ -4,8 +4,8 @@ body {
 }
 body {
   background-image: 
-	  url('jpmzurk.github.io/4-20-14HP5320-018.jpg'); opacity: 0.3;
-  background-position: center top; background-size: 90%; margin: 0;no-repeat fixed center; 
+	  url('jpmzurk.github.io/4-20-14HP5320-018.jpg'); no-repeat fixed center;
+  background-position: center top; background-size: 90%; margin: 0; 
 }
 
 .hr1 {
