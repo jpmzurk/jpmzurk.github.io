@@ -1,26 +1,32 @@
-body {
-	height: 100%; margin: 0; text-align: left; width: 100%; ine-height: 1.1;font-family: 'Georgia', "Times New Roman",
-          serif;
-}
-body {
-  background-image: 
-	  url('jpmzurk.github.io/4-20-14HP5320-018.jpg'); no-repeat fixed center;
-  background-position: center top; background-size: 90%; margin: 0; 
+
+html, body {
+	height: 100%; margin: 0; text-align: left; width: 100%; line-height: 1.1;font-family: 'Georgia', "Times New Roman", serif;
 }
 
+body{
+  margin: 0;
+  padding: 0:
+  box sizing: border box;
+}
+header{
+  text-align: justify;
+  text-justify: inter-word;
+}
 .hr1 {
-   width: 60%;height:5px; color:rgb(0,0,0);
+   width: 60%;height:5px; fill: 100%;color:rgb(0,0,0);
 }
 
 .page-title {
-  font-family: 'cambria';text-align: left;font-weight: 125;
+  font-family: 'cambria';text-align: justify; text-justify: inter-word;font-weight: 125;
 }
 
 .paragraph-text {
-  font-family: 'cambria'; text-align: left; line height: 1;
+  font-family: 'cambria'; text-align: left; line-height: 1;
+  text-align: justify;
+  text-justify: inter-word;
 }	  
 .page-description {
-  padding: 0px; text-align: left;  hr {width: 60%; height:3px; margin-left: auto;margin-right: auto;}
+  padding: 0px; text-align: left;  
 }
 
 h1 {
