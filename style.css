@@ -1,24 +1,24 @@
-html, body {
-	height: 100%; margin: 0; text-align: center; width: 100%; line-height: 1.1;font-family: 'Georgia', "Times New Roman", serif;
+
+body {
+	height: 100%; margin: 0; text-align: center; width: 100%; line-height: 1.1;font-family: 'Roboto', sans-serif;;
 }
 
-.hr1 {
-   width: 60%;height:5px; fill: 100%;color:rgb(0,0,0);
+.hr1 { width:60%;height:solid-color 5px;
 }
 
 .page-title {
-  font-family: 'cambria';text-align: center;font-weight: 125;
+  font-family: 'Roboto', sans-serif;;text-align: center;font-weight: 125;
 }
 
 .paragraph-text {
-  font-family: 'cambria'; text-align: center; line-height: 1;
+font-family: 'Roboto', sans-serif; text-align: center; line-height: 1;
 }	  
 .page-description {
  text-align: center;  
 }
 
 h1 {
-	font-size: 32px; font-family: 'cambria', serif; color: rgb(121,149,117);
+	font-size: 32px; font-family: 'Roboto', sans-serif; color: rgb(121,149,117);
 }
 h2 {
 	font-size: 25px;
