@@ -1,9 +1,13 @@
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+} 
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+} 
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -25,6 +29,7 @@ img {
 
 a{
   color: #323232;
+  font-size: 16px;
   text-decoration: none;
 }
 
@@ -34,7 +39,7 @@ text-decoration: underline}
 .container {
   max-width:960px;
   margin: 40px auto;
-  padding: 32px;
+  padding: 32px; 
   background: #FFFFFF;
   box-shadow: 0 2pmx 4px rgba(0,0,0.1) 
 }
@@ -56,10 +61,32 @@ section:last-child {
 }
 
 .section-title {
-  font-weight: bolder;
+  font-weight: 900;
   font-size: 18px;
 }
 
 .name {
-font-weight: Bold;
-font-size: 32px}
+  font-size: 30px;
+  line-height: 1;
+}
+.my-title {
+  padding-top:3px;
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.job {
+  padding-bottom: 24px;
+  margin-bottom: 40px;
+}
+
+.job-title-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.job-company {
+  font-weight: bold;
+  line-height: 1.2;
+}
