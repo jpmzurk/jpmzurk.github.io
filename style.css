@@ -88,6 +88,7 @@ section:last-child {
 .name {
   font-size: 30px;
   line-height: 1;
+  margin-top: 40px;
 }
 .my-title {
   padding-top:3px;
@@ -119,7 +120,7 @@ section:last-child {
 }
 
 .skills-container ul {
-  margin-left: 20px;
+  margin-left: -25px;
   list-style-type: disc;
 }
 
