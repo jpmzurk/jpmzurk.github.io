@@ -13,10 +13,10 @@ body {
 }
 
 .svg-icon {
-  fill: currentColor;
+  fill: currentcolor;
   display: inline-block;
   font-size: inherit;
-  height: 1em;
+  height: 2px;
   overflow: visible;
 }
 
