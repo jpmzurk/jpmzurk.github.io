@@ -23,7 +23,7 @@ img {
   overflow: visible;
 }
 
-a {
+a{
   color: #323232;
   text-decoration: none;
 }
@@ -50,3 +50,20 @@ section {
   vertical-align: top;
   border-radius: 100%;
 }
+
+section:last-child {
+  border-bottom: none;
+}
+
+.section-title {
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.name {
+font-weight: Bold;
+font-size: 32px}
+
+span { font-weight: bold; }
+
+
