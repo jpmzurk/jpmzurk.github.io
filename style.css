@@ -98,6 +98,10 @@ text-decoration: underline}
   margin-top: -15px;
   margin-bottom: -60px;
 }
+#skills-list{
+  margin-top: -15px;
+  margin-bottom: -20px;
+}
 section {
   display: grid;
   grid-template-columns: 1fr 4fr;
