@@ -6,17 +6,11 @@ html {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
-  text-align: center;
+  font-family: 'Roboto', sans-serif
   line-height: 1.5;
   background: #efdecd:
   color: #323232;
 }
-
-
-.hr1 { width:60%;height;solid-color 5px;
-}
-
 
 .svg-icon {
   fill: currentColor;
@@ -30,13 +24,6 @@ img {
   max-width: 100%;
 }
 
-
-h1 {
-	font-size: 32px; font-family: 'Roboto', sans-serif; color: rgb(121,149,117);
-}
-h2 {
-	font-size: 25px;
-}
 ul {
     text-align: center;
     list-style-position: inside;
