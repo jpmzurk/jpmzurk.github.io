@@ -56,13 +56,14 @@ section:last-child {
 }
 
 .section-title {
-  font-weight: bolder;
+  font-weight: 900;
   font-size: 18px;
 }
 
 .name {
 font-weight: Bold;
-font-size: 32px}
+font-size: 32px;
+}
 
 span { font-weight: bold; }
 
