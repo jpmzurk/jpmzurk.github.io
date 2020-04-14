@@ -1,14 +1,34 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 body {
-	height: 100%; margin: 0; text-align: center; width: 100%; line-height: 1.1;font-family: 'Roboto', sans-serif;;
+  font-family: 'Roboto', sans-serif
+  line-height: 1.5;
+  background: #efdecd:
+  color: #323232;
 }
+
 
 .hr1 { width:60%;height:solid-color 5px;
 }
 
-.page-title {
-  font-family: 'Roboto', sans-serif;;text-align: center;font-weight: 125;
+
+.svg-icon {
+  fill: currentColor;
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
 }
+
+img {
+  max-width: 100%;
+}
+
 
 .paragraph-text {
 font-family: 'Roboto', sans-serif; text-align: center; line-height: 1;
