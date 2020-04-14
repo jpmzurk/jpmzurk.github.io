@@ -1,4 +1,3 @@
-
 .WebContainer{
     width:100%;
     min-width:1000px;
@@ -75,15 +74,7 @@ section:last-child {
   font-size: 18px;
   line-height: 1.25;
 }
-
 .job {
   padding-bottom: 24px;
   margin-bottom: 24px;
-}
-
-.job-title-container {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 20px;
-  font-size: 18px;
 }
