@@ -41,6 +41,12 @@ a{
   text-decoration: none;
 }
 
+.job-class{
+    color: #323232;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 a:hover { 
 text-decoration: underline}
 
@@ -97,10 +103,11 @@ section:last-child {
 .job-company {
   font-weight: 800;
   line-height: 1.2;
+  font-size: 20px;
 }
 .skills-container {
   display:grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
   margin-bottom: 24px;    
 }
