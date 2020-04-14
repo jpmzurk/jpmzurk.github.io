@@ -68,7 +68,14 @@ text-decoration: underline}
   margin-top: -15px;
   
 }
-
+#list-2{
+  margin-top: -15px;
+  
+}
+#list-3{
+  margin-top: -15px;
+  
+}
 section {
   display: grid;
   grid-template-columns: 1fr 4fr;
@@ -93,7 +100,7 @@ section:last-child {
 .name {
   font-size: 30px;
   line-height: 1;
-  margin-top: 40px;
+  margin-top: 10px;
 }
 .my-title {
   padding-top:3px;
