@@ -44,11 +44,9 @@ section {
   grid-template-columns: 1fr 4fr;
   grid-gap: 20px;
   padding: 24px 0;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #D2691E;
 }
-
-
-
-
-
-
+.avatar {
+  vertical-align: top;
+  border-radius: 100%;
+}
