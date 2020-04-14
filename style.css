@@ -64,6 +64,19 @@ text-decoration: underline}
   box-shadow: 0 2pmx 4px rgba(0,0,0.1) 
 }
 
+#about {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 25px;
+}
+
+#about-section {
+  margin-top: -15px;
+  font-size: 18px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: -5px;
+}
 #list {
   margin-top: -15px;
 }
@@ -78,10 +91,12 @@ text-decoration: underline}
 
 #list-4{
   margin-top: -15px;
+  margin-bottom: -60px;
 }
 
 #list-5{
   margin-top: -15px;
+  margin-bottom: -60px;
 }
 section {
   display: grid;
