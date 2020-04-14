@@ -64,6 +64,11 @@ text-decoration: underline}
   box-shadow: 0 2pmx 4px rgba(0,0,0.1) 
 }
 
+#list {
+  margin-top: -15px;
+  
+}
+
 section {
   display: grid;
   grid-template-columns: 1fr 4fr;
@@ -82,7 +87,7 @@ section:last-child {
 
 .section-title {
   font-weight: 900;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .name {
