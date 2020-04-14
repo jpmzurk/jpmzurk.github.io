@@ -1,3 +1,9 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -19,7 +25,6 @@ img {
 
 a{
   color: #323232;
-  font-size: 16px;
   text-decoration: none;
 }
 
@@ -51,20 +56,10 @@ section:last-child {
 }
 
 .section-title {
-  font-weight: 900;
+  font-weight: bolder;
   font-size: 18px;
 }
 
 .name {
-  font-size: 30px;
-  line-height: 1;
-}
-.my-title {
-  padding-top:3px;
-  font-size: 18px;
-  line-height: 1.25;
-}
-.job {
-  padding-bottom: 24px;
-  margin-bottom: 24px;
-}
+font-weight: Bold;
+font-size: 32px}
