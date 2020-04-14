@@ -6,14 +6,15 @@ html {
 }
 
 body {
-  font-family: 'Roboto', sans-serif
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
   line-height: 1.5;
   background: #efdecd:
   color: #323232;
 }
 
 
-.hr1 { width:60%;height:solid-color 5px;
+.hr1 { width:60%;height;solid-color 5px;
 }
 
 
@@ -29,13 +30,6 @@ img {
   max-width: 100%;
 }
 
-
-.paragraph-text {
-font-family: 'Roboto', sans-serif; text-align: center; line-height: 1;
-}	  
-.page-description {
- text-align: center;  
-}
 
 h1 {
 	font-size: 32px; font-family: 'Roboto', sans-serif; color: rgb(121,149,117);
